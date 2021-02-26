@@ -1,4 +1,4 @@
-# RPA_UiPath_CurrencyConverter
+# RPA_UiPath_Automation_CurrencyConverter_ReportGenerator_Email
 ------------------------------------------------
 This repo contains the Robotic Process Automation project using UiPath's StudioX Community Cloud for the following scenario:
 
