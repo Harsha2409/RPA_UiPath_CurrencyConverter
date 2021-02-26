@@ -19,3 +19,4 @@ This repo contains the Robotic Process Automation project using UiPath's StudioX
  
  ## This was done using UiPath's StudioX. All that needs to be done is hit `Run`
  ![Step1](https://github.com/Harsha2409/RPA_UiPath_CurrencyConverter/blob/main/step1-readfromexcel.PNG)
+ ![Step2](https://github.com/Harsha2409/RPA_UiPath_CurrencyConverter/blob/main/step2-googleRates-selectRates.PNG)
